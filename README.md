@@ -1,6 +1,6 @@
 # The Infinitely Small Room
 
-<p align="center">![Screenshot](https://img.itch.zone/aW1hZ2UvMTM3NDM4LzYyOTIyNC5wbmc=/original/bVSHcO.png)</p>
+![Screenshot](https://img.itch.zone/aW1hZ2UvMTM3NDM4LzYyOTIyNC5wbmc=/original/bVSHcO.png)
 
 A UGC puzzle game made for the 15th anniversary edition Ludum Dare!
 
